@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\bin\Debug\Console Contact List.exe.config
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\bin\Debug\Console Contact List.exe
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\bin\Debug\Console Contact List.pdb
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\obj\Debug\Console Contact List.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\obj\Debug\Console Contact List.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\obj\Debug\Console Contact List.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\obj\Debug\Console Contact List.exe
+C:\Users\admin\Desktop\Console Contact List\Console Contact List\obj\Debug\Console Contact List.pdb
